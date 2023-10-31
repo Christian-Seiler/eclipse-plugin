@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ch.mobiliar.kwsoft.plugin
+Bundle-SymbolicName: mobiliar-kwsoft-plugin;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Mobi---
+Require-Bundle: org.eclipse.core.resources,
+ org.eclipse.core.runtime,
+ org.eclipse.ui
+Automatic-Module-Name: mobiliar.kwsoft.plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-17
